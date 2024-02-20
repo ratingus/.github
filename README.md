@@ -4,7 +4,7 @@
 <table align="center">
   <thead><div align="center"><h3>Участники</h3></div></thead>
   <tr>
-    <td align="center"><a href="https://github.com/burunyuu23">Шлыков Данила</a></td>
+    <td align="center"><a href="https://github.com/burunyuu23">Данила Шлыков</a></td>
     <td align="center"><a href="https://github.com/PiPuKaPRo">Евгений Саков</a></td>
     <td align="center"><a href="https://github.com/SapeginPavel">Павел Сапегин</a></td>
   </tr>
