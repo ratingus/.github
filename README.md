@@ -4,9 +4,9 @@
 <table align="center">
   <thead><div align="center"><h3>Участники</h3></div></thead>
   <tr>
+    <td align="center"><a href="https://github.com/burunyuu23">Шлыков Данила</a></td>
     <td align="center"><a href="https://github.com/PiPuKaPRo">Евгений Саков</a></td>
     <td align="center"><a href="https://github.com/SapeginPavel">Павел Сапегин</a></td>
-    <td align="center"><a href="https://github.com/burunyuu23">Шлыков Данила</a></td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/34377854" alt="Данила Шлыков" width = 200px height = 200px ></td>
