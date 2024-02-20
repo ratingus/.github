@@ -9,9 +9,9 @@
     <td align="center"><a href="https://github.com/burunyuu23">Шлыков Данила</a></td>
   </tr>
   <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/34377854" alt="Данила Шлыков" width = 200px height = 200px ></td>
     <td><img src="https://avatars.githubusercontent.com/u/91192469" alt="Евгений Саков" width = 200px height = 200px ></td>
     <td><img src="https://avatars.githubusercontent.com/u/112646457" alt="Павел Сапегин" width = 200px height = 200px ></td>
-    <td><img src="https://avatars.githubusercontent.com/u/34377854" alt="Шлыков Данила" width = 200px height = 200px ></td>
   </tr>
 </table>
 
