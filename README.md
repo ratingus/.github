@@ -9,9 +9,9 @@
     <td align="center"><a href="https://github.com/SapeginPavel">Павел Сапегин</a></td>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/34377854" alt="Данила Шлыков" width = 200px height = 200px ></td>
-    <td><img src="https://avatars.githubusercontent.com/u/91192469" alt="Евгений Саков" width = 200px height = 200px ></td>
-    <td><img src="https://avatars.githubusercontent.com/u/112646457" alt="Павел Сапегин" width = 200px height = 200px ></td>
+    <td width = 33.33% height = 33.33% ><img src="https://avatars.githubusercontent.com/u/34377854" alt="Данила Шлыков"></td>
+    <td width = 33.33% height = 33.33% ><img src="https://avatars.githubusercontent.com/u/91192469" alt="Евгений Саков"></td>
+    <td width = 33.33% height = 33.33% ><img src="https://avatars.githubusercontent.com/u/112646457" alt="Павел Сапегин"></td>
   </tr>
 </table>
 
