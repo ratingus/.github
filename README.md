@@ -18,5 +18,5 @@
 > [!IMPORTANT]
 > ### Ссылки на сервисы:
 > - [YouTrack](https://ratingus.youtrack.cloud/articles/RATINGUS)
-> - [Figma](https://www.figma.com/file/0RZGaBbtYFtDCzDzM41auT/Ratingus)
+> - [Figma](https://www.figma.com/file/0RZGaBbtYFtDCzDzM41auT/Ratingus?type=design&node-id=0%3A1&mode=design&t=A72bi5OdCWjHiFSn-1)
 > - [Miro](https://miro.com/app/board/uXjVNq3ckq8=/)
