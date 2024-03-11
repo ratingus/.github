@@ -23,4 +23,5 @@
 
 > [!IMPORTANT]
 > ### Важные документы:
-> - [Техническое задание](https://github.com/burunyuu23/Ratingus/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.docx)
+> - [Техническое задание (.docx)](https://github.com/burunyuu23/Ratingus/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.docx)
+> - [Техническое задание (.pdf)](https://github.com/burunyuu23/Ratingus/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.pdf)
