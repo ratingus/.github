@@ -25,6 +25,6 @@
 > - [Figma](https://www.figma.com/file/0RZGaBbtYFtDCzDzM41auT/Ratingus?type=design&node-id=0%3A1&mode=design&t=A72bi5OdCWjHiFSn-1)
 
 > [!IMPORTANT]
-> ### Важные документы:
+> ### Документы:
 > - [Техническое задание (.docx)](https://github.com/burunyuu23/Ratingus/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.docx)
 > - [Техническое задание (.pdf)](https://github.com/burunyuu23/Ratingus/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.pdf)
