@@ -16,7 +16,7 @@
 верстальшик</i></td>
     <td align="center"><div><b><a href="https://github.com/PiPuKaPRo">Евгений Саков</a></b></div><i>Проектировщик БД, разработчик, 
 тестировщик</i></td>
-    <td align="center"><div><b><a href="https://github.com/SapeginPavel">Павел Сапегин</a></b></div><i>ПМ, аналитик, разработчик, сейл</i></td>
+    <td align="center"><div><b><a href="https://github.com/SapeginPavel">Павел Сапегин</a></b></div><i>ПМ, системный аналитик, разработчик, сейл</i></td>
   </tr>
   <tr>
     <td width = 33.33% height = 33.33% ><img src="https://sun9-23.userapi.com/impg/8FyDqZmTrA4AY_DROvuleQKRWr3SuSnXAaiyHw/3n62_OzeJ-Y.jpg?size=942x942&quality=96&sign=0dcc9e803f9e3540b1cbdde346020e0b&type=album" alt="Данила Шлыков"></td>
