@@ -13,7 +13,7 @@
   <thead><div align="center"><h3>Участники</h3></div></thead>
   <tr>
     <td align="center"><div><b><a href="https://github.com/burunyuu23">Данила Шлыков</a></b></div><i>Тимлид, архитектор, дизайнер, 
-верстальшик</i></td>
+верстальщик</i></td>
     <td align="center"><div><b><a href="https://github.com/PiPuKaPRo">Евгений Саков</a></b></div><i>Проектировщик БД, разработчик, 
 тестировщик</i></td>
     <td align="center"><div><b><a href="https://github.com/SapeginPavel">Павел Сапегин</a></b></div><i>ПМ, системный аналитик, разработчик, сейл</i></td>
