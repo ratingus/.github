@@ -1,0 +1,9 @@
+[submodule "ratingus-web"]
+	path = ratingus-web
+	url = https://github.com/burunyuu23/ratingus-web
+[submodule "ratingus_mobile"]
+	path = ratingus_mobile
+	url = https://github.com/burunyuu23/ratingus_mobile
+[submodule "ratingus-backend"]
+	path = ratingus-backend
+	url = https://github.com/burunyuu23/ratingus-backend
