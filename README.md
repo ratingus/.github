@@ -27,8 +27,8 @@
 
 > [!IMPORTANT]
 > ### Презентация:
-> - [Презентация ([.pptx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.pptx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.pdf))
-> - [Видео презентация ([.mp4](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.mp4)) ([youtube](https://youtu.be/olZRyMFTVbw))
+> - Презентация ([.pptx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.pptx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.pdf))
+> - Видео презентация ([.mp4](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.mp4)) ([youtube](https://youtu.be/olZRyMFTVbw))
 
 > [!IMPORTANT]
 > ### Документы:
