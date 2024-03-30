@@ -1,9 +1,12 @@
 [submodule "ratingus-web"]
 	path = ratingus-web
 	url = https://github.com/burunyuu23/ratingus-web
+	branch = main
 [submodule "ratingus_mobile"]
 	path = ratingus_mobile
 	url = https://github.com/burunyuu23/ratingus_mobile
+	branch = main
 [submodule "ratingus-backend"]
 	path = ratingus-backend
 	url = https://github.com/burunyuu23/ratingus-backend
+	branch = main
