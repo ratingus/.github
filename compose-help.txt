@@ -1,0 +1,2 @@
+// Создать сеть
+docker network create ratingus-network
