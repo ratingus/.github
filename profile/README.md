@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Ratingus</h1>
-    <img src="logo.png" height="200"/>
+    <img src="https://github.com/Ratingus/.github/blob/main/logo.png" height="200"/>
     <figcaption><h3><i>Платформа для дистанционного управления учебным процессом в школах</i></h3></figcaption>
     <hr/>
     <h2><i>Команда 7.7</i></h2>
