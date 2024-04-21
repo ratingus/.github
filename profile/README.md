@@ -41,3 +41,4 @@
 > - [YouTrack (база знаний)](https://ratingus.youtrack.cloud/articles/RATINGUS-A-10/DOKUMENTACIYa)
 > - [YouTrack (доска Agile)](https://ratingus.youtrack.cloud/agiles/159-2/current)
 > - [Figma](https://www.figma.com/file/0RZGaBbtYFtDCzDzM41auT/Ratingus?type=design&node-id=0%3A1&mode=design&t=A72bi5OdCWjHiFSn-1)
+> - [Storybook](https://ratingus.fun/_storybook)
