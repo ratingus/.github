@@ -27,6 +27,7 @@
 
 > [!IMPORTANT]
 > ### Вторая аттестация:
+> - Курсовая (без реализации) ([.docx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Kursovaya.docx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Kursovaya.pdf))
 > - Презентация ([.pptx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation_2Atta.pptx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation_2Atta.pdf))
 > - Видео презентация ([youtube](https://youtu.be/nL2MaOGuQ7M))
 > - Обзор демо мобильного приложения ([youtube](https://youtu.be/7-f-ZYC__cE))
