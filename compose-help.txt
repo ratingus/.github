@@ -1,2 +1,6 @@
 // Создать сеть
 docker network create ratingus-network
+
+// Обновить все подмодули
+git submodule update --init --recursive --remote --force
+

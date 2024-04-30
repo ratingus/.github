@@ -26,7 +26,14 @@
 </table>
 
 > [!IMPORTANT]
-> ### Презентация:
+> ### Вторая аттестация:
+> - Презентация ([.pptx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation_2Atta.pptx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation_2Atta.pdf))
+> - Видео презентация ([youtube](https://youtu.be/nL2MaOGuQ7M))
+> - Обзор демо мобильного приложения ([youtube](https://youtu.be/7-f-ZYC__cE))
+> - Обзор демо веб приложения ([youtube](https://youtu.be/hVhw4XDdapQ))
+
+> [!IMPORTANT]
+> ### Первая аттестация:
 > - Презентация ([.pptx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.pptx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.pdf))
 > - Видео презентация ([.mp4](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.mp4)) ([youtube](https://youtu.be/olZRyMFTVbw))
 
