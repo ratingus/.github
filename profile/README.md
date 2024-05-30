@@ -26,23 +26,21 @@
 </table>
 
 > [!IMPORTANT]
-> ### Вторая аттестация:
-> - Курсовая (без реализации) ([.docx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Kursovaya.docx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Kursovaya.pdf))
-> - Презентация ([.pptx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation_2Atta.pptx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation_2Atta.pdf))
-> - Видео презентация ([youtube](https://youtu.be/nL2MaOGuQ7M))
-> - Обзор демо мобильного приложения ([youtube](https://youtu.be/7-f-ZYC__cE))
-> - Обзор демо веб приложения ([youtube](https://youtu.be/hVhw4XDdapQ))
-
-> [!IMPORTANT]
-> ### Первая аттестация:
-> - Презентация ([.pptx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.pptx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.pdf))
-> - Видео презентация ([.mp4](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Presentation.mp4)) ([youtube](https://youtu.be/olZRyMFTVbw))
-
-> [!IMPORTANT]
 > ### Документы:
-> - Сопроводительное письмо ([.docx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Soprovoditelnoe.docx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Soprovoditelnoe.pdf))
-> - Подтверждение корректного оформления технического задания ([.jpg](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Oformitelskie_zadachi.jpg)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/Oformitelskie_zadachi.pdf))
-> - Техническое задание ([.docx](https://github.com/burunyuu23/Ratingus/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.docx)) ([.pdf](https://github.com/burunyuu23/Ratingus/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.pdf))
+> - Сопроводительное письмо ([.docx](https://github.com/ratingus/blob/main/Docs/Soprovoditelnoe.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Soprovoditelnoe.pdf))
+> - Подтверждение корректного оформления технического задания ([.jpg](https://github.com/ratingus/.github/blob/main/Docs/Oformitelskie_zadachi.jpg)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Oformitelskie_zadachi.pdf))
+> - Техническое задание ([.docx](https://github.com/ratingus/.github/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.pdf))
+> - Курсовая ([.docx](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya.pdf))
+
+### Приложение
+[ratingus.apk](https://github.com/ratingus/ratingus_mobile/releases/download/RELEASE-0.9/)
+
+### Тестовые данные для входа
+|                                      | Логин    | Пароль      |
+|--------------------------------------|----------|-------------|
+| Локальный админ и менеджер платформы | admin    | admin       |
+| Ученик                               | ivan2003 | ivan2003    |
+| Учитель                              | sashka   | password123 |
 
 > [!IMPORTANT]
 > ### Ссылки на сервисы:
@@ -50,3 +48,17 @@
 > - [YouTrack (доска Agile)](https://ratingus.youtrack.cloud/agiles/159-2/current)
 > - [Figma](https://www.figma.com/file/0RZGaBbtYFtDCzDzM41auT/Ratingus?type=design&node-id=0%3A1&mode=design&t=A72bi5OdCWjHiFSn-1)
 > - [Storybook](https://ratingus.fun/_storybook)
+
+> [!IMPORTANT]
+> ### Вторая аттестация:
+> - Курсовая (без реализации) ([.docx](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya_2_atta.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya_2_atta.pdf))
+> - Презентация ([.pptx](https://github.com/ratingus/.github/blob/main/Docs/Presentation_2Atta.pptx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Presentation_2Atta.pdf))
+> - Видео презентация ([youtube](https://youtu.be/nL2MaOGuQ7M))
+> - Обзор демо мобильного приложения ([youtube](https://youtu.be/7-f-ZYC__cE))
+> - Обзор демо веб приложения ([youtube](https://youtu.be/hVhw4XDdapQ))
+
+> [!IMPORTANT]
+> ### Первая аттестация:
+> - Презентация ([.pptx](https://github.com/ratingus/.github/blob/main/Docs/Presentation.pptx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Presentation.pdf))
+> - Видео презентация ([.mp4](https://github.com/ratingus/.github/blob/main/Docs/Presentation.mp4)) ([youtube](https://youtu.be/olZRyMFTVbw))
+
