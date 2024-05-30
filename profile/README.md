@@ -31,6 +31,7 @@
 > - Подтверждение корректного оформления технического задания ([.jpg](https://github.com/ratingus/.github/blob/main/Docs/Oformitelskie_zadachi.jpg)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Oformitelskie_zadachi.pdf))
 > - Техническое задание ([.docx](https://github.com/ratingus/.github/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.pdf))
 > - Курсовая ([.docx](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya.pdf))
+> - Презентация ([.pptx](https://github.com/ratingus/.github/blob/main/Docs/Presentation.pptx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Presentation.pdf))
 
 ### Приложение
 [ratingus.apk](https://github.com/ratingus/ratingus_mobile/releases/download/RELEASE-0.9/)
