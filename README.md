@@ -6,7 +6,7 @@
     <h2><i>Команда 7.7</i></h2>
 </div>
 
-### Цель: 
+### Цель:
 Создать платформу, которая позволит учебным организациям заполнять информацию по успеваемости (оценкам), посещаемости, выданным ДЗ и расписанию, а учащимся просматривать её. Суть в том, что каждый пользователь платформы регистрируется на ней самостоятельно (а не учебной организацией), а его затем могут подключать к разным организациям. Таким образом в одном приложении можно будет хранить все расписания всех школ, а также остальную информацию. В идеале - сделать так, чтобы пользователю можно было самому вести расписание, куда будет подгружаться нужное расписание из всех учебных организаций, в которых состоит пользователь.
 
 <table align="center">
@@ -54,7 +54,7 @@
 > ### Ссылки на сервисы:
 > - [YouTrack (база знаний)](https://ratingus.youtrack.cloud/articles/RATINGUS-A-10/DOKUMENTACIYa)
 > - [YouTrack (доска Agile)](https://ratingus.youtrack.cloud/agiles/159-2/current)
-> - [Figma](https://www.figma.com/file/0RZGaBbtYFtDCzDzM41auT/Ratingus?type=design&node-id=0%3A1&mode=design&t=A72bi5OdCWjHiFSn-1)
+> - [Figma](https://www.figma.com/design/0RZGaBbtYFtDCzDzM41auT/Ratingus?node-id=29-2&t=iQIGE8YhZJUhCyOl-0)
 > - [Swagger](https://ratingus.fun/spring-api/swagger-ui/index.html)
 > - [Storybook](https://ratingus.fun/_storybook)
 > - [Postman](https://www.postman.com/grey-shadow-803360/workspace/ratingus-public)

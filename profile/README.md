@@ -54,7 +54,7 @@
 > ### Ссылки на сервисы:
 > - [YouTrack (база знаний)](https://ratingus.youtrack.cloud/articles/RATINGUS-A-10/DOKUMENTACIYa)
 > - [YouTrack (доска Agile)](https://ratingus.youtrack.cloud/agiles/159-2/current)
-> - [Figma](https://www.figma.com/file/0RZGaBbtYFtDCzDzM41auT/Ratingus?type=design&node-id=0%3A1&mode=design&t=A72bi5OdCWjHiFSn-1)
+> - [Figma](https://www.figma.com/design/0RZGaBbtYFtDCzDzM41auT/Ratingus?node-id=29-2&t=iQIGE8YhZJUhCyOl-0)
 > - [Swagger](https://ratingus.fun/spring-api/swagger-ui/index.html)
 > - [Storybook](https://ratingus.fun/_storybook)
 > - [Postman](https://www.postman.com/grey-shadow-803360/workspace/ratingus-public)
