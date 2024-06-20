@@ -57,6 +57,7 @@
 > - [Figma](https://www.figma.com/file/0RZGaBbtYFtDCzDzM41auT/Ratingus?type=design&node-id=0%3A1&mode=design&t=A72bi5OdCWjHiFSn-1)
 > - [Swagger](https://ratingus.fun/spring-api/swagger-ui/index.html)
 > - [Storybook](https://ratingus.fun/_storybook)
+> - [Postman](https://www.postman.com/grey-shadow-803360/workspace/ratingus-public)
 
 > ### Ссылки на видео:
 > - [Видеопрезентация проекта](https://youtu.be/CnC1z5LBK0U)
