@@ -25,41 +25,43 @@
   </tr>
 </table>
 
-> [!IMPORTANT]
 > ### Документы:
-> - Сопроводительное письмо ([.docx](https://github.com/ratingus/blob/main/Docs/Soprovoditelnoe.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Soprovoditelnoe.pdf))
+> - Сопроводительное письмо ([.docx](https://github.com/ratingus/.github/blob/main/Docs/Soprovoditelnoe.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Soprovoditelnoe.pdf))
 > - Подтверждение корректного оформления технического задания ([.jpg](https://github.com/ratingus/.github/blob/main/Docs/Oformitelskie_zadachi.jpg)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Oformitelskie_zadachi.pdf))
 > - Техническое задание ([.docx](https://github.com/ratingus/.github/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/7_7_Tekhnicheskoe_zadanie.pdf))
 > - Курсовая ([.docx](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya.pdf))
 > - Презентация ([.pptx](https://github.com/ratingus/.github/blob/main/Docs/Presentation.pptx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Presentation.pdf))
+> - [Аналитика](https://github.com/ratingus/.github/blob/main/profile/аналитика/ANALYTICS.md)
+> - [Инструкция для запуска](https://github.com/ratingus/.github/blob/main/profile/DEPLOYMENT.md)
 
-### Приложение
-[ratingus.apk](https://github.com/ratingus/ratingus_mobile/releases/download/RELEASE-0.9/)
+> ### Приложение
+> - [Мобильное приложение](https://github.com/ratingus/ratingus_mobile/releases/latest/download/ratingus.apk)
+> - [Web-сайт](https://ratingus.fun/)
 
-### Тестовые данные для входа
-|                                      | Логин    | Пароль      |
-|--------------------------------------|----------|-------------|
-| Локальный админ и менеджер платформы | admin    | admin       |
-| Ученик                               | ivan2003 | ivan2003    |
-| Учитель                              | sashka   | password123 |
+> ### Тестовые данные для входа
+> | Роль               | Логин     | Пароль  |
+> |--------------------|-----------|---------|
+> | Менеджер платформы | admin     | admin   |
+> | Локальный админ    | sergeyAdm | qwerty  |
+> | Учитель            | elen      | elen    |
+> | Ученик             | maryrom   | maryrom |
 
-> [!IMPORTANT]
+> ### Ссылки на проекты:
+> - [Backend](https://github.com/ratingus/ratingus-backend)
+> - [Web](https://github.com/ratingus/ratingus-web)
+> - [Mobile](https://github.com/ratingus/ratingus_mobile)
+
 > ### Ссылки на сервисы:
 > - [YouTrack (база знаний)](https://ratingus.youtrack.cloud/articles/RATINGUS-A-10/DOKUMENTACIYa)
 > - [YouTrack (доска Agile)](https://ratingus.youtrack.cloud/agiles/159-2/current)
 > - [Figma](https://www.figma.com/file/0RZGaBbtYFtDCzDzM41auT/Ratingus?type=design&node-id=0%3A1&mode=design&t=A72bi5OdCWjHiFSn-1)
+> - [Swagger](https://ratingus.fun/spring-api/swagger-ui/index.html)
 > - [Storybook](https://ratingus.fun/_storybook)
 
-> [!IMPORTANT]
-> ### Вторая аттестация:
-> - Курсовая (без реализации) ([.docx](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya_2_atta.docx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Kursovaya_2_atta.pdf))
-> - Презентация ([.pptx](https://github.com/ratingus/.github/blob/main/Docs/Presentation_2Atta.pptx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Presentation_2Atta.pdf))
-> - Видео презентация ([youtube](https://youtu.be/nL2MaOGuQ7M))
-> - Обзор демо мобильного приложения ([youtube](https://youtu.be/7-f-ZYC__cE))
-> - Обзор демо веб приложения ([youtube](https://youtu.be/hVhw4XDdapQ))
-
-> [!IMPORTANT]
-> ### Первая аттестация:
-> - Презентация ([.pptx](https://github.com/ratingus/.github/blob/main/Docs/Presentation.pptx)) ([.pdf](https://github.com/ratingus/.github/blob/main/Docs/Presentation.pdf))
-> - Видео презентация ([.mp4](https://github.com/ratingus/.github/blob/main/Docs/Presentation.mp4)) ([youtube](https://youtu.be/olZRyMFTVbw))
-
+> ### Ссылки на видео:
+> - [Видеопрезентация проекта](https://youtu.be/CnC1z5LBK0U)
+> - [Демонстрация работы проекта (Инструкция по работе с приложением)](https://youtu.be/W8lYlx1VUx4)
+> - [Архитектура Backend части](https://youtu.be/xXs4k9Nz9S0)
+> - [Архитектура Mobile части](https://youtu.be/p53U3NiAYUo)
+> - [Архитектура Web части](https://youtu.be/QIX7QPEhOQY)
+> - [Инфраструктура (Развёртывание)](https://youtu.be/8yyvuZ2drnk)
