@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0e8594ad-381f-449a-ad75-2ed4d22f83cf" name="ratingus">
+        <fileTransfer accessType="SFTP" host="82.97.240.86" port="22" sshConfigId="6c1c149e-7961-480a-b7b5-3dc0546da2f3" sshConfig="root@82.97.240.86:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
